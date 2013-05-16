@@ -4,4 +4,4 @@
 
 This is some text.  You can also do `code.snippets()`.
 
-Oh hey! We added more text!
+This is a change that Josh Dickson made :)
